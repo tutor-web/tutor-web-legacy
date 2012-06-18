@@ -6,3 +6,4 @@ This is the readme.
 
 Here's more stuff in the readme.
 
+This is indeed a readme.
