@@ -1,0 +1,330 @@
+%ID Qgen-q42
+%title Qgen-q42 Title 4
+%format latex
+
+Bodies 4
+
+a.false) Wrong 4 5
+
+b.false) Correct 4 9
+
+c.false) Wrong 4 17
+
+d.false) Correct 4 1
+
+e.false) Correct 4 3
+
+f.true) b), d), og e) eru rétt.
+
+%Explanation
+Explanation 4
+
+%===
+%ID Qgen-q43
+%title Qgen-q43 Title 3
+%format latex
+
+Bodies 3
+
+a.true) Correct 3 8
+
+b.true) Correct 3 3
+
+c.false) Wrong 3 19
+
+d.false) Wrong 3 20
+
+e.false) Wrong 3 2
+
+f.false) a), b), og d) eru rétt.
+
+%Explanation
+Explanation 3
+
+%===
+%ID Qgen-q44
+%title Qgen-q44 Title 2
+%format latex
+
+Bodies 2
+
+a.false) Wrong 2 14
+
+b.false) Correct 2 8
+
+c.false) Wrong 2 16
+
+d.false) Correct 2 10
+
+e.false) Correct 2 6
+
+f.true) b), d), og e) eru rétt.
+
+%Explanation
+Explanation 2
+
+%===
+%ID Qgen-q45
+%title Qgen-q45 Title 2
+%format latex
+
+Bodies 2
+
+a.true) Correct 2 9
+
+b.true) Correct 2 5
+
+c.false) Wrong 2 11
+
+d.false) Wrong 2 10
+
+e.false) Wrong 2 12
+
+f.false) b), c), og e) eru rétt.
+
+%Explanation
+Explanation 2
+
+%===
+%ID Qgen-q46
+%title Qgen-q46 Title 2
+%format latex
+
+Bodies 2
+
+a.true) Correct 2 5
+
+b.true) Correct 2 9
+
+c.false) Wrong 2 5
+
+d.false) Wrong 2 17
+
+e.false) Wrong 2 12
+
+f.false) b), c), og e) eru rétt.
+
+%Explanation
+Explanation 2
+
+%===
+%ID Qgen-q47
+%title Qgen-q47 Title 2
+%format latex
+
+Bodies 2
+
+a.false) Wrong 2 4
+
+b.false) Correct 2 10
+
+c.false) Wrong 2 18
+
+d.false) Correct 2 5
+
+e.false) Correct 2 3
+
+f.true) b), d), og e) eru rétt.
+
+%Explanation
+Explanation 2
+
+%===
+%ID Qgen-q48
+%title Qgen-q48 Title 2
+%format latex
+
+Bodies 2
+
+a.true) Correct 2 6
+
+b.true) Correct 2 4
+
+c.false) Wrong 2 19
+
+d.false) Wrong 2 17
+
+e.false) Wrong 2 14
+
+f.false) c), d), og e) eru rétt.
+
+%Explanation
+Explanation 2
+
+%===
+%ID Qgen-q49
+%title Qgen-q49 Title 4
+%format latex
+
+Bodies 4
+
+a.false) Wrong 4 18
+
+b.false) Wrong 4 15
+
+c.false) Correct 4 9
+
+d.false) Correct 4 2
+
+e.false) Correct 4 5
+
+f.true) c), d), og e) eru rétt.
+
+%Explanation
+Explanation 4
+
+%===
+%ID Qgen-q50
+%title Qgen-q50 Title 5
+%format latex
+
+Bodies 5
+
+a.true) Correct 5 3
+
+b.true) Correct 5 6
+
+c.false) Wrong 5 2
+
+d.false) Wrong 5 17
+
+e.false) Wrong 5 19
+
+f.false) a), c), og d) eru rétt.
+
+%Explanation
+Explanation 5
+
+%===
+%ID Qgen-q51
+%title Qgen-q51 Title 2
+%format latex
+
+Bodies 2
+
+a.true) Correct 2 4
+
+b.true) Correct 2 8
+
+c.false) Wrong 2 7
+
+d.false) Wrong 2 12
+
+e.false) Wrong 2 8
+
+f.false) b), d), og e) eru rétt.
+
+%Explanation
+Explanation 2
+
+%===
+%ID Qgen-q52
+%title Qgen-q52 Title 4
+%format latex
+
+Bodies 4
+
+a.false) Wrong 4 12
+
+b.false) Wrong 4 18
+
+c.false) Correct 4 6
+
+d.false) Correct 4 2
+
+e.false) Correct 4 9
+
+f.true) c), d), og e) eru rétt.
+
+%Explanation
+Explanation 4
+
+%===
+%ID Qgen-q53
+%title Qgen-q53 Title 2
+%format latex
+
+Bodies 2
+
+a.true) Correct 2 3
+
+b.true) Correct 2 9
+
+c.false) Wrong 2 2
+
+d.false) Wrong 2 1
+
+e.false) Wrong 2 18
+
+f.false) a), b), og e) eru rétt.
+
+%Explanation
+Explanation 2
+
+%===
+%ID Qgen-q54
+%title Qgen-q54 Title 4
+%format latex
+
+Bodies 4
+
+a.true) Correct 4 5
+
+b.true) Correct 4 1
+
+c.false) Wrong 4 8
+
+d.false) Wrong 4 2
+
+e.false) Wrong 4 14
+
+f.false) b), d), og e) eru rétt.
+
+%Explanation
+Explanation 4
+
+%===
+%ID Qgen-q55
+%title Qgen-q55 Title 5
+%format latex
+
+Bodies 5
+
+a.true) Correct 5 7
+
+b.true) Correct 5 2
+
+c.false) Wrong 5 11
+
+d.false) Wrong 5 9
+
+e.false) Wrong 5 20
+
+f.false) a), d), og e) eru rétt.
+
+%Explanation
+Explanation 5
+
+%===
+%ID Qgen-q56
+%title Qgen-q56 Title 5
+%format latex
+
+Bodies 5
+
+a.true) Correct 5 6
+
+b.true) Correct 5 4
+
+c.false) Wrong 5 6
+
+d.false) Wrong 5 10
+
+e.false) Wrong 5 14
+
+f.false) a), d), og e) eru rétt.
+
+%Explanation
+Explanation 5
+
+%===
