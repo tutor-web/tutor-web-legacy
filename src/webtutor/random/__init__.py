@@ -14,16 +14,19 @@ def sample(x, size=1, replace=False, p=None):
     else:
         p_R = robj.NULL
     sampleIndices = robj.r.sample(indices, size, replace, p_R)
-    return [x[i] for i in sampleIndices]
+    if size == 1:
+        return x[sampleIndices[0]]
+    else:
+        return [x[i] for i in sampleIndices]
 
 def _getFraction(numerators, denominators):
-    # Make sure it's possible to get a fraction that
+    # Make sure it's guaranteed to get a fraction that
     # is not an integer.
     num = sample(numerators)
     den = sample(denominators)
     
 
-def fraction(size=1, replace=False, numerators=[1,2,3,5,7], denominators=[2,3,5,7]):
+def fractions(size=1, replace=False, numerators=[1,2,3,5,7], denominators=[2,3,5,7]):
     ''' Returns randomly generated sympy Fractions.
     Guaranteed to be not an integer.'''
     
