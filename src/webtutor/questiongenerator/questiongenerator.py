@@ -60,8 +60,8 @@ Random Seed: {randomSeed!r}'''.format(**self.__dict__)
             c = self.choices[i]
             if len(c) == 1:
                 self.choices[i] = [c[0] for x in range(maxLength)]
-        self.qChoices = zip(*self.choices)
-        return self.qChoices
+        qChoices = zip(*self.choices)
+        return qChoices
                 
 
     def getNextQuestion(self):
@@ -69,8 +69,8 @@ Random Seed: {randomSeed!r}'''.format(**self.__dict__)
         Generates a new question, and returns it as a Question object. Then increments questionID.
         '''
         q = Question()
-        self._getQChoices()
-        c = sample(self.qChoices)
+        qChoices = self._getQChoices()
+        c = sample(qChoices)
         q.title = c[0]
         q.body = c[1]
         q.answer = c[2]
