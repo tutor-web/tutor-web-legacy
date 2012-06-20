@@ -1,6 +1,6 @@
 import codecs
 import re
-from webtutor import MCQuestion
+from tutorweb import MCQuestion
 from mcquestionwriter import MCQuestionWriter
 
 class MCQuestionReader(object):

@@ -1,7 +1,7 @@
 from __future__ import division
-from webtutor.questiongenerator import QuestionGenerator
-from webtutor.random import sample
-from webtutor import MCQuestion, MCQuestionWriter
+from tutorweb.questiongenerator import QuestionGenerator
+from tutorweb.random import sample
+from tutorweb import MCQuestion, MCQuestionWriter
 from numpy import random
 import codecs
 

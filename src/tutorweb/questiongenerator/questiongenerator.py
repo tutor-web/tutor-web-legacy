@@ -1,5 +1,5 @@
-from webtutor.random import seed, sample
-from webtutor import Question
+from tutorweb.random import seed, sample
+from tutorweb import Question
 
 class QuestionGenerator(object):
     '''

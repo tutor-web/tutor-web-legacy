@@ -1,6 +1,6 @@
 from mcquestionreader import MCQuestionReader
 from testwriter import TestWriter
-from webtutor import MCQuestion
+from tutorweb import MCQuestion
 from numpy import random
 import re
 

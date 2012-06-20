@@ -1,5 +1,5 @@
-from webtutor import polynomial as poly
-from webtutor import MCQuestionGenerator as MCQGen
+from tutorweb import polynomial as poly
+from tutorweb import MCQuestionGenerator as MCQGen
 import sympy as sym
 
 polyDiffs, diffRoots = poly.getRealPoly(4,2)
